@@ -1,0 +1,1 @@
+Sample App for video streaming in Flask with the help of socket.io library.
